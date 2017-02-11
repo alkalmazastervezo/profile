@@ -1,0 +1,20 @@
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+
+/* This sets the toolbar above the tabs (if Tabs are on top) in Firefox 4 and sets the background color and opacity. 0.0 is 0% opacity, so if you want the color to actually show, raise this up. 1.0 is 100% opacity. */
+#PersonalToolbar {
+	-moz-box-ordinal-group: 6 !important;
+	background-color:rgba(160,160,160,0.0) !important;
+}
+
+
+/* This sets the text color for the Personal Toolbar. It is recommended to keep 1.0 opacity.  You may change this to stand out better against your preferred window color.  This also sets a 3 pixel padding for all elements on the toolbar, including buttons. */
+#PersonalToolbar toolbarbutton {
+	color:rgba(255,255,255,1.0) !important;
+	padding-right: 3px  !important;
+}
+
+/* This sets an additional 7 pixel padding on the button TEXT only, for a less squished appearance. */
+#PersonalToolbar toolbarbutton label {
+	padding-right: 7px  !important;
+}

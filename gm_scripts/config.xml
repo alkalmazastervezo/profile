@@ -1,0 +1,11 @@
+<UserScriptConfig>
+	<Script basedir="bejelento-login" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" filename="bejelento-login.user.js" installTime="1466503015153" modified="1474207773546" name="bejelento-login" namespace="https://bejelento.mapei.instantwork.hu" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="5eeddfc3-1d13-4dd6-a56d-944ad30eceed" version="1" installurl="file:///C:/MAPEI/app/szervezo/data/profile/gm_scripts/bejelento-login/bejelento-login.user.js" updateurl="file:///C:/MAPEI/app/szervezo/data/profile/gm_scripts/bejelento-login/bejelento-login.user.js">
+		<Grant>none</Grant>
+		<Include>https://bejelento.mapei.instantwork.hu/wp-login.php</Include>
+	</Script>
+	<Script basedir="szervezo-login" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" filename="szervezo-login.user.js" installTime="1466503239990" modified="1479724571797" name="szervezo-login" namespace="https://mapei.instantwork.hu" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="1855b974-3cfb-4259-973d-360b94c955c5" version="1" installurl="file:///C:/MAPEI/app/szervezo/data/profile/gm_scripts/szervezo-login/szervezo-login.user.js" updateurl="file:///C:/MAPEI/app/szervezo/data/profile/gm_scripts/szervezo-login/szervezo-login.user.js">
+		<Grant>none</Grant>
+		<Include>https://mapei.instantwork.hu/_szervezo.php</Include>
+		<UserInclude>https://mapei.instantwork.hu/</UserInclude>
+	</Script>
+</UserScriptConfig>

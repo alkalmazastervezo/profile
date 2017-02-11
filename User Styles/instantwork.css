@@ -1,0 +1,178 @@
+
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+#main-window 
+{
+    -moz-appearance: none;
+    background: rgba(255, 255, 255, 1.0) !important;
+    border : none !important;
+} 
+
+
+toolbox,
+#toolbar-menubar,
+#nav-bar,
+#PersonalToolbar,
+sidebarheader,
+#status-bar,
+statusbarpanel
+#navigator-toolbox toolbar,
+#browser-bottombox
+#addon-bar,
+#downbarHolder,
+#FindToolbar,
+.tabbrowser-strip,
+#bookmars-menu,
+#nav-bar,
+#tabbrowser-tabs,
+#navigator-toolbox,
+#main-menubar > menu,
+#FindToolbar,
+#addon-bar,
+toolbox,
+toolbar,
+tab
+{
+    -moz-appearance: none !important;
+    background-color: rgba(255, 255, 255, 1.0) !important;
+}
+
+#navigator-toolbox
+{
+    -moz-appearance: none !important;
+    border: none!important;
+}
+
+#navigator-toolbox::after 
+{
+    -moz-appearance: none !important; 
+    height: 0 !important;
+    border: none !important;
+}
+
+toolbar
+{ 
+    -moz-appearance: none !important; 
+    border: 0 !important; 
+}
+
+#TabsToolbar
+{
+    -moz-appearance: none !important;
+    background: rgba(255, 255, 255, 1.0) !important;
+    margin-left:-4px!important
+}
+ 
+.tabbrowser-tab
+{
+    -moz-appearance: none !important;
+    border: none !important;
+    background:rgba(255, 255, 255, 1.0) !important;
+}
+
+.tabs-newtab-button
+{ 
+    -moz-appearance: none !important; 
+    background: #ffffff !important; 
+    border: 0 !important; 
+    width: 16px !important; 
+} 
+
+/* urlbar */
+#urlbar 
+{
+    -moz-appearance: none !important; 
+    background: none !important;
+    border: 1px solid #bbbbbb !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;        
+}
+
+/*addon bar*/
+#browser-bottombox,
+#addon-bar,
+#downbarHolder,
+#FindToolbar
+{
+    -moz-appearance: none !important; 
+    border: none !important;
+    background: transparent !important;        
+}
+
+/* menu*/
+ menupopup 
+{
+    -moz-appearance: none !important; 
+    background: #ffffff !important;
+    border: 1px solid #333 !important;
+} 
+
+/* sidebar */
+
+ 
+
+/* scrollbar */
+
+scrollbar, scrollcorner 
+{
+    -moz-appearance: none !important;
+    background: transparent !important;
+}
+
+scrollbar thumb 
+{
+    -moz-appearance: none !important;
+    background-color: rgba(255, 255, 255, 1.0) !important;
+    border: 1px solid rgba(200, 200, 200, 1.0) !important;
+    border-radius: 10px;
+} 
+
+scrollbar[orient="vertical"]
+{
+    -moz-appearance: none !important;
+    min-width: 10px !important;
+    max-width: 10px !important;
+}
+
+scrollbar[orient="vertical"] thumb {
+    -moz-appearance: none !important;
+    max-width: 10px !important;
+    min-width: 10px !important;
+    min-height: 15px !important;
+}
+
+scrollbar[orient="horizontal"]
+{
+    -moz-appearance: none !important;
+    max-height: 10px !important;
+    min-height: 10px !important;
+    min-width: 15px !important;
+}
+
+scrollbar scrollbarbutton
+{
+    visibility: collapse !important;
+}
+
+/* tab */
+tab[selected="true"] {
+    -moz-appearance: none !important;
+    background-color: rgba(255, 255, 255, 1.0) !important;
+    border-bottom: solid 3px rgba(221, 75, 27, 1.0)   !important;
+    padding-bottom: 1px !important;
+    color: rgba(221, 75, 27, 1.0) !important;
+    font-weight:bold !important; 
+}
+
+tab:not([selected="true"]) 
+{
+    -moz-appearance: none !important;
+    background-color: rgba(255, 255, 255, 1.0) !important;
+    border-bottom: solid 3px rgba(255, 255, 255, 1.0) !important;
+    padding-bottom: 1px !important;
+    color: rgba(125, 125, 125, 1.0) !important;
+}
+
+
+
+

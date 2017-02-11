@@ -1,0 +1,1 @@
+[{"account":"borg-ubuntu-server-rapp","host":"192.168.74.161","port":"22","login":"instantwork","password":"","anonymous":false,"notes":"","folder":"","privatekey":"","protocol":"ssh2","tunnels":""},{"account":"mapei-pszo","host":"193.226.209.81","port":"22","login":"mrspock","password":"","anonymous":false,"notes":"","folder":"","privatekey":"","protocol":"ssh2","tunnels":""}]

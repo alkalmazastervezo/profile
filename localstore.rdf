@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localsize"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://titlebar/content/options.xul">
+    <NC:persist RDF:resource="chrome://titlebar/content/options.xul#customizeTitlebarPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul#styleSheetDateAdded"
+                   width="178" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#TabsToolbar"
+                   currentset="unified-back-forward-button,reload-button,tabbrowser-tabs,programok-button,spacer,bejelento-button,spacer,brief-button,spacer,tabs-closebutton" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#navigator-toolbox"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#titlebar-placeholder-on-menubar-for-caption-buttons"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#titlebar-placeholder-on-TabsToolbar-for-captions-buttons"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#customToolbars"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#__customToolbar_coder"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#fbMainFrame"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/customizeToolbar.xul#CustomizeToolbarWindow"
+                   width="560"
+                   height="421" />
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#lifetimecol"
+                   ordinal="5"
+                   width="107" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuesource"
+                   ordinal="1" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#searchLocal"
+                   selected="true" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localtype"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://global/content/customizeToolbar.xul">
+    <NC:persist RDF:resource="chrome://global/content/customizeToolbar.xul#CustomizeToolbarWindow"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://securelogin/content/secureLoginOptions.xul">
+    <NC:persist RDF:resource="chrome://securelogin/content/secureLoginOptions.xul#secureLoginPrefs"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pencil/content/propertyDialog.xul#tabBox"
+                   selectedIndex="0" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentKeyword"
+                   ordinal="11" />
+  <RDF:Description RDF:about="chrome://securelogin/content/secureLoginExceptions.xul">
+    <NC:persist RDF:resource="chrome://securelogin/content/secureLoginExceptions.xul#secureLoginExceptions"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/config.xul#prefCol"
+                   ordinal="1"
+                   sortDirection="ascending" />
+  <RDF:Description RDF:about="chrome://global/content/viewSource.xul#viewSource"
+                   width="1044"
+                   height="633"
+                   sizemode="normal"
+                   screenX="202"
+                   screenY="9" />
+  <RDF:Description RDF:about="chrome://savedpasswordeditor/content/pwdedit.xul#password_text"
+                   type="password" />
+  <RDF:Description RDF:about="chrome://titlebar/content/options.xul#customizeTitlebarPreferences"
+                   lastSelected="general-pane" />
+  <RDF:Description RDF:about="chrome://firessh/content/accountManager.xul">
+    <NC:persist RDF:resource="chrome://firessh/content/accountManager.xul#accountManager"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pencil/content/propertyDialog.xul">
+    <NC:persist RDF:resource="chrome://pencil/content/propertyDialog.xul#tabBox"/>
+    <NC:persist RDF:resource="chrome://pencil/content/propertyDialog.xul#pencilPropertyEditorDialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul#styleSheetAppliesOnCol"
+                   width="174" />
+  <RDF:Description RDF:about="chrome://firessh/content/password.xul#passwordPrompt3"
+                   screenX="549"
+                   screenY="249"
+                   width="275"
+                   height="250" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#titlebar-placeholder-on-TabsToolbar-for-captions-buttons"
+                   width="66" />
+  <RDF:Description RDF:about="chrome://global/content/config.xul">
+    <NC:persist RDF:resource="chrome://global/content/config.xul#prefCol"/>
+    <NC:persist RDF:resource="chrome://global/content/config.xul#lockCol"/>
+    <NC:persist RDF:resource="chrome://global/content/config.xul#typeCol"/>
+    <NC:persist RDF:resource="chrome://global/content/config.xul#valueCol"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#navigator-toolbox"
+                   iconsize="small" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localdirname"
+                   ordinal="1"
+                   width="327" />
+  <RDF:Description RDF:about="chrome://pippki/content/exceptionDialog.xul">
+    <NC:persist RDF:resource="chrome://pippki/content/exceptionDialog.xul#exceptiondialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul#styleSheetNameCol"
+                   width="200" />
+  <RDF:Description RDF:about="chrome://pencil/content/mainWindow.xul#sideBox"
+                   width="243" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentVisitCount"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://firessh/content/password.xul">
+    <NC:persist RDF:resource="chrome://firessh/content/password.xul#passwordPrompt3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#certcol"
+                   ordinal="1"
+                   width="281" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localattr"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuestatus"
+                   ordinal="17" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#account=openproject-30-u1204">
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotedirname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localdirname"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   src="chrome://browser/content/bookmarks/bookmarksPanel.xul"
+                   width="298" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remotedirname"
+                   ordinal="1"
+                   width="277" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remoteattr"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#binaryMode"
+                   checked="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#titlebar-placeholder-on-menubar-for-caption-buttons"
+                   width="66" />
+  <RDF:Description RDF:about="chrome://hidecaptionplus/content/options.xul#hcp_options_window"
+                   lastSelected="paneContent" />
+  <RDF:Description RDF:about="chrome://brief/content/options/options.xul#brief-options3"
+                   screenX="416"
+                   screenY="8"
+                   width="562"
+                   height="772"
+                   lastSelected="main-pane" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remotename"
+                   ordinal="1" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuepercent"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#addon-bar"
+                   collapsed="true"
+                   currentset="addonbar-closebutton,spring,status-bar" />
+  <RDF:Description RDF:about="chrome://browser/content/devtools/scratchpad.xul">
+    <NC:persist RDF:resource="chrome://browser/content/devtools/scratchpad.xul#main-window"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pencil/content/mainWindow.xul#main-window"
+                   width="1202"
+                   height="713"
+                   screenX="12"
+                   screenY="0"
+                   sizemode="maximized" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#account=borg-ubuntu-server-rapp">
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotedirname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localdirname"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul">
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#certcol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#tokencol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#sitecol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#lifetimecol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#expiredcol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#serialnumcol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#issuedcol"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#certmanagertabs"/>
+    <NC:persist RDF:resource="chrome://pippki/content/certManager.xul#certmanager"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localname"
+                   ordinal="1" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul">
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentTags"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentUrl"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDate"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentVisitCount"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentKeyword"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDescription"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentDateAdded"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesContentLastModified"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#places"/>
+    <NC:persist RDF:resource="chrome://browser/content/places/places.xul#placesList"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://brief/content/options/options.xul">
+    <NC:persist RDF:resource="chrome://brief/content/options/options.xul#brief-options3"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="place:folder=TOOLBAR&amp;excludeItems=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://pencil/content/mainWindow.xul">
+    <NC:persist RDF:resource="chrome://pencil/content/mainWindow.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://pencil/content/mainWindow.xul#sideBox"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="webrtc-status-button,urlbar-container,firebug-button,bookmarks-menu-button,downloads-button,window-controls,social-share-button,greasemonkey-tbb"
+                   collapsed="true">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#sitecol"
+                   ordinal="3"
+                   width="155" />
+  <RDF:Description RDF:about="chrome://pippki/content/exceptionDialog.xul#exceptiondialog"
+                   width="506"
+                   height="505"
+                   screenX="20"
+                   screenY="4" />
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#expiredcol"
+                   width="16"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://securelogin/content/secureLoginExceptions.xul#secureLoginExceptions"
+                   lastSelected="secureLoginExceptionsPane" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentTags"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul">
+    <NC:persist RDF:resource="chrome://browser/content/sanitize.xul#detailsExpander"/>
+    <NC:persist RDF:resource="chrome://browser/content/sanitize.xul#itemList"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="place:folder=BOOKMARKS_MENU&amp;excludeItems=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://greasemonkey/content/options.xul#greasemonkey-options-dialog"
+                   screenX="345"
+                   screenY="8" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
+  <RDF:Description RDF:about="about:config#valueCol"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://brief/content/brief.xul#view-list"
+                   startview="all-items-folder" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#account=mapei-pszo">
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotedirname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localdirname"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#asciiMode"
+                   checked="false" />
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul#itemList"
+                   collapsed="false" />
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul#styleSheetDateModified"
+                   width="139" />
+  <RDF:Description RDF:about="about:config#prefCol"
+                   ordinal="1"
+                   sortDirection="ascending" />
+  <RDF:Description RDF:about="chrome://passwordmgr/content/passwordManager.xul">
+    <NC:persist RDF:resource="chrome://passwordmgr/content/passwordManager.xul#SignonViewerDialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#certmanager"
+                   screenX="361"
+                   screenY="180"
+                   height="379"
+                   width="704" />
+  <RDF:Description RDF:about="chrome://fireftp/content/accountManager.xul#accountManager8"
+                   screenX="428"
+                   screenY="187" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#fbMainFrame"
+                   height="310" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuetype"
+                   ordinal="15" />
+  <RDF:Description RDF:about="about:config">
+    <NC:persist RDF:resource="about:config#prefCol"/>
+    <NC:persist RDF:resource="about:config#lockCol"/>
+    <NC:persist RDF:resource="about:config#typeCol"/>
+    <NC:persist RDF:resource="about:config#valueCol"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://userstylemanager/content/editor.xul#USMEditor"
+                   width="1032"
+                   height="668"
+                   screenX="167"
+                   screenY="6"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://passwordmgr/content/passwordManagerExceptions.xul#SignonViewerExceptionDialog"
+                   lastSelected="SignonViewerDialogPane" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuedest"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesList"
+                   width="263" />
+  <RDF:Description RDF:about="chrome://userstylemanager/content/editor.xul">
+    <NC:persist RDF:resource="chrome://userstylemanager/content/editor.xul#USMEditor"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://fireftp/content/accountManager.xul">
+    <NC:persist RDF:resource="chrome://fireftp/content/accountManager.xul#accountManager8"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="place:folder=27&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/devtools/scratchpad.xul#main-window"
+                   height="560"
+                   sizemode="normal"
+                   screenX="390"
+                   screenY="109"
+                   width="821" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remotedate"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentUrl"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#localdate"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#tokencol"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#certmanagertabs"
+                   selectedIndex="3" />
+  <RDF:Description RDF:about="chrome://brief/content/brief.xul">
+    <NC:persist RDF:resource="chrome://brief/content/brief.xul#feed-list"/>
+    <NC:persist RDF:resource="chrome://brief/content/brief.xul#view-list"/>
+    <NC:persist RDF:resource="chrome://brief/content/brief.xul#sidebar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul">
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotename"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotesize"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotetype"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotedate"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remoteattr"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#remotedirname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localsize"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localtype"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localdate"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localattr"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#localdirname"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuesource"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuedest"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuebytes"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuepercent"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queueela"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuerem"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuerate"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuetype"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#queuestatus"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#searchLocal"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#logbutton"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#autoMode"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#binaryMode"/>
+    <NC:persist RDF:resource="chrome://fireftp/content/fireftp.xul#asciiMode"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#serialnumcol"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://menuedit/content/menueditprefs.xul#menueditPrefs"
+                   width="565"
+                   height="480"
+                   screenX="357"
+                   screenY="25"
+                   simple="false"
+                   selIndex="9" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   screenX="409"
+                   screenY="89"
+                   lastSelected="paneAdvanced" />
+  <RDF:Description RDF:about="place:folder=TOOLBAR&amp;excludeItems=1&amp;expandQueries=0"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#places"
+                   sizemode="normal"
+                   width="1054"
+                   height="683"
+                   screenX="187"
+                   screenY="17" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuebytes"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remotesize"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuerem"
+                   ordinal="11" />
+  <RDF:Description RDF:about="about:config#typeCol"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://firessh/content/preferences.xul#firesshPreferences"
+                   lastSelected="myPane" />
+  <RDF:Description RDF:about="chrome://pippki/content/certManager.xul#issuedcol"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#autoMode"
+                   checked="false" />
+  <RDF:Description RDF:about="chrome://firessh/content/accountManager.xul#accountManager"
+                   screenX="427"
+                   screenY="175" />
+  <RDF:Description RDF:about="chrome://global/content/config.xul#valueCol"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul#USMOptionsWindow"
+                   lastSelected="USMOptionsPane"
+                   sizemode="normal"
+                   width="816"
+                   height="639" />
+  <RDF:Description RDF:about="place:folder=BOOKMARKS_MENU&amp;excludeItems=1&amp;expandQueries=0"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://menuedit/content/menueditprefs.xul">
+    <NC:persist RDF:resource="chrome://menuedit/content/menueditprefs.xul#menueditPrefs"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://brief/content/options/style-editor.xul#brief-style-editor"
+                   screenX="-5"
+                   screenY="26"
+                   width="516"
+                   height="539" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
+                   currentset="__empty"
+                   collapsed="true" />
+  <RDF:Description RDF:about="chrome://firessh/content/preferences.xul">
+    <NC:persist RDF:resource="chrome://firessh/content/preferences.xul#firesshPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentLastModified"
+                   ordinal="17" />
+  <RDF:Description RDF:about="chrome://hidecaptionplus/content/options.xul">
+    <NC:persist RDF:resource="chrome://hidecaptionplus/content/options.xul#hcp_options_window"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDateAdded"
+                   ordinal="15" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#remotetype"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://firebug/content/firefox/firebugFrame.xul">
+    <NC:persist RDF:resource="chrome://firebug/content/firefox/firebugFrame.xul#fbSidePanelDeck"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://brief/content/options/style-editor.xul">
+    <NC:persist RDF:resource="chrome://brief/content/options/style-editor.xul#brief-style-editor"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/sanitize.xul#detailsExpander"
+                   class="expander-up" />
+  <RDF:Description RDF:about="chrome://greasemonkey/content/options.xul">
+    <NC:persist RDF:resource="chrome://greasemonkey/content/options.xul#greasemonkey-options-dialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://passwordmgr/content/passwordManagerExceptions.xul">
+    <NC:persist RDF:resource="chrome://passwordmgr/content/passwordManagerExceptions.xul#SignonViewerExceptionDialog"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   screenY="59"
+                   screenX="158"
+                   height="563"
+                   width="950"
+                   sizemode="maximized">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#TabsToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#addon-bar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://global/content/config.xul#typeCol"
+                   ordinal="5" />
+  <RDF:Description RDF:about="chrome://savedpasswordeditor/content/pwdedit.xul">
+    <NC:persist RDF:resource="chrome://savedpasswordeditor/content/pwdedit.xul#password_text"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://firebug/content/firefox/firebugFrame.xul#fbSidePanelDeck"
+                   width="338" />
+  <RDF:Description RDF:about="chrome://brief/content/brief.xul#sidebar"
+                   width="247" />
+  <RDF:Description RDF:about="chrome://passwordmgr/content/passwordManager.xul#SignonViewerDialog"
+                   width="545"
+                   height="404"
+                   screenX="444"
+                   screenY="104" />
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties2.xul#bookmarkproperties"
+                   screenX="503"
+                   screenY="303"
+                   width="408" />
+  <RDF:Description RDF:about="chrome://userstylemanager/content/options.xul">
+    <NC:persist RDF:resource="chrome://userstylemanager/content/options.xul#USMOptionsWindow"/>
+    <NC:persist RDF:resource="chrome://userstylemanager/content/options.xul#styleSheetNameCol"/>
+    <NC:persist RDF:resource="chrome://userstylemanager/content/options.xul#styleSheetDateModified"/>
+    <NC:persist RDF:resource="chrome://userstylemanager/content/options.xul#styleSheetDateAdded"/>
+    <NC:persist RDF:resource="chrome://userstylemanager/content/options.xul#styleSheetAppliesOnCol"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul">
+    <NC:persist RDF:resource="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#__customToolbar_coder"
+                   collapsed="false" />
+  <RDF:Description RDF:about="about:config#lockCol"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDate"
+                   ordinal="7" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queuerate"
+                   ordinal="13" />
+  <RDF:Description RDF:about="chrome://global/content/viewSource.xul">
+    <NC:persist RDF:resource="chrome://global/content/viewSource.xul#viewSource"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="place:folder=BOOKMARKS_MENU&amp;excludeItems=1&amp;excludeQueries=1&amp;excludeReadOnlyFolders=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#toolbar-menubar"
+                   currentset="menubar-items"
+                   autohide="true" />
+  <RDF:Description RDF:about="chrome://browser/content/places/bookmarkProperties2.xul">
+    <NC:persist RDF:resource="chrome://browser/content/places/bookmarkProperties2.xul#bookmarkproperties"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/places/places.xul#placesContentDescription"
+                   ordinal="13" />
+  <RDF:Description RDF:about="place:folder=UNFILED_BOOKMARKS&amp;queryType=1"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://global/content/config.xul#lockCol"
+                   ordinal="3" />
+  <RDF:Description RDF:about="chrome://mozapps/content/downloads/unknownContentType.xul#unknownContentType"
+                   screenX="486"
+                   screenY="210" />
+  <RDF:Description RDF:about="chrome://pencil/content/propertyDialog.xul#pencilPropertyEditorDialog"
+                   screenX="556"
+                   screenY="192" />
+  <RDF:Description RDF:about="chrome://fireftp/content/fireftp.xul#queueela"
+                   ordinal="9" />
+  <RDF:Description RDF:about="chrome://securelogin/content/secureLoginOptions.xul#secureLoginPrefs"
+                   lastSelected="secureLoginPrefPaneMain"
+                   screenX="488"
+                   screenY="180" />
+</RDF:RDF>

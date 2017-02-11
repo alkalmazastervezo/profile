@@ -1,0 +1,5 @@
+services.addons.mozilla.org:HSTS	7	17208	1518312567323,1,0
+services.addons.mozilla.org:HPKP	7	17208	1491960567323,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+versioncheck-bg.addons.mozilla.org:HPKP	3	17207	1491945475540,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+aus5.mozilla.org:HSTS	1	17207	1518296137853,1,0
+versioncheck.addons.mozilla.org:HPKP	0	17205	1491718260051,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=

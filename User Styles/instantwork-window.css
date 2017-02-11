@@ -1,0 +1,91 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+@media not all and (-moz-windows-compositor) 
+{
+    /* #titlebar-max
+    {
+        display:none !important; 
+    }*/
+  
+    #titlebar-min,
+    #titlebar-max,
+    #titlebar-close 
+    {
+        -moz-appearance: none !important;
+        list-style-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAA8CAYAAADi8H14AAAABHNCSVQICAgIfAhkiAAAARRJREFUeJzt2VEOhCAMRVGYzFJZVveqXybGEaFq9Tne82vApmI1eSkBAPCn8l03LqUMW9fNzFVba7+j+9bWta5/PDd7s7UH2PNQvzHl9GmdCgVmlqd6SinDVPO8xq234vIGzwtba6T3Ffas3fvglk323JMR0WmtkT2H4ZYR8YTRcBa5E6za5L0fObkGm1k+MocjLD9o8/paTd4cEWf/qz5R7W+h9nexdMsMjhoDkeOl9pFTHWkAAAAAgL3I5Dr3JZMLRiYXhEzOsZZMThiZnCi5E6zaZDK5QGRygcjkLtg3JTI5AAAAAHgPMrnOfcnkgpHJBSGTc6wlkxNGJidK7gSrNplMLhCZXCAyuQv2TYlMDgCAHyO43z/q1Uw0uAAAAABJRU5ErkJggg==") !important;
+        padding: 0!important;
+        padding-bottom: 0px!important;
+        border-style: none !important;
+        background: transparent !important;
+        margin-top: -1px!important;
+        box-shadow:  none !important;
+        -moz-border-image: none !important;
+    }
+
+    window[sizemode="maximized"] #titlebar-min,
+    window[sizemode="maximized"] #titlebar-max,
+    window[sizemode="maximized"] #titlebar-close 
+    {
+        margin-top: 1px!important;
+    }
+
+    #titlebar-min 
+    {
+        -moz-image-region: rect(0, 22px, 20px, 0)!important;
+    }
+
+    #titlebar-min:hover 
+    {
+        -moz-image-region: rect(20px, 22px, 40px, 0)!important;
+    }
+
+    #titlebar-min:hover:active 
+    {
+        -moz-image-region: rect(40px, 22px, 60px, 0)!important;
+    }
+
+    #titlebar-max 
+    {
+        -moz-image-region: rect(0, 66px, 20px, 44px)!important;
+    }
+
+    #titlebar-max:hover 
+    {
+        -moz-image-region: rect(20px, 66px, 40px, 44px)!important;
+    }
+
+    #titlebar-max:hover:active 
+    {
+        -moz-image-region: rect(40px, 66px, 60px, 44px)!important;
+    }
+
+    window[sizemode="maximized"] #titlebar-max 
+    {
+        -moz-image-region: rect(0, 44px, 20px, 22px)!important;
+        }
+
+    window[sizemode="maximized"] #titlebar-max:hover 
+    {
+        -moz-image-region: rect(20px, 44px, 40px, 22px)!important;
+    }
+
+    window[sizemode="maximized"] #titlebar-max:hover:active 
+    {
+        -moz-image-region: rect(40px, 44px, 60px, 22px)!important;
+    }
+
+    #titlebar-close 
+    {
+        -moz-image-region: rect(0, 88px, 20px, 66px)!important;
+    }
+
+    #titlebar-close:hover 
+    {
+        -moz-image-region: rect(20px, 88px, 40px, 66px)!important;
+    }
+
+    #titlebar-close:hover:active 
+    {
+        -moz-image-region: rect(40px, 88px, 60px, 66px)!important;
+    }
+}

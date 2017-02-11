@@ -1,0 +1,42 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document url-prefix(about:neterror) 
+{
+    html 
+    {
+        background:  none !important;
+        margin:20px !important;
+        background-color:#FFFFFF !important;
+        background-position:center center !important;
+        background-attachment:fixed !important;
+        background-repeat:no-repeat !important;
+    }
+ }
+ 
+#errorPageContainer
+{
+    background:none !important;important;
+    background-color: #FFFFFF !important;
+    background-repeat: no-repeat !important;
+    background-position:center !important;
+    border: none !important;
+}
+
+#errorTryAgain 
+{
+    -moz-appearance: none !important;
+    color: #ddd !important;
+    background: rgba(0,0,0,.5) !important;
+    box-shadow: 0 0 4px rgba(161,161,161,.9) inset !important;
+    border-radius: 4px !important;
+    border-top: 1px solid transparent !important;
+    border-right: 1px solid transparent !important;
+    border-bottom: 1px solid transparent !important;
+    border-left: 1px solid transparent !important;
+}
+
+#errorTryAgain:hover 
+{
+    color: #eee !important;
+    background: rgba(0,0,0,.9) !important;
+}
